@@ -17,3 +17,7 @@ echo "Hola";
 <?php 
 echo "Otro cambio";
 ?>
+
+<?php 
+echo "uno más";
+?>
