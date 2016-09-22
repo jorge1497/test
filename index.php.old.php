@@ -9,3 +9,7 @@
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(
+
+<?php 
+echo "Hola";
+?>
