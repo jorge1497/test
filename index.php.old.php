@@ -13,3 +13,7 @@ Something is wrong with the XAMPP installation :-(
 <?php 
 echo "Hola";
 ?>
+
+<?php 
+echo "Otro cambio";
+?>
